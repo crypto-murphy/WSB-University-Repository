@@ -1,2 +1,2 @@
 # WSB-University-Repository
-exercises, tasks &amp; homeworks
+exercises, tasks &amp; homeworks.
