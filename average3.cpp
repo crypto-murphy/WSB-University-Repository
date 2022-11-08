@@ -20,7 +20,7 @@ int main()
     cin >> y;
     cout << "Enter 'z'...\n";
     cin >> z;
-    cout << "Average of " << x << ", " << y << ", and " << z  << " is " << (x+y+z)/3 << ".";
+    cout << "Average of " << x << ", " << y << ", and " << z  << " is " << (x+y+z)/3 << "!";
 
     return 0;
 }
