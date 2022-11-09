@@ -20,7 +20,7 @@ int main()
 
       if ((login=="admin") && (password=="12345"))
 {
-     cout << "Logging in has been successfull!";
+        cout << "Logging in has been successfull!";
     
       }else {
 
