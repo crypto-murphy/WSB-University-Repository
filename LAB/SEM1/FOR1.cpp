@@ -20,8 +20,9 @@ int main()
     cin >> x;     
       for(int i=1; i<=x; i++)
 {
-      Sleep(700);
-      cout << i << ". " << name << endl;
+      Sleep(800);
+      cout << i << ". " << name << endl;    
 }
+    
     return 0;
 }
