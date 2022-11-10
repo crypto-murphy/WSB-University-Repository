@@ -13,12 +13,13 @@ int population=1; int hour=0;
 
 int main()
 {
-     while(population<=1000000000)
+     do
 {
-     hour = hour++; //or hour + 1
+     hour = hour++;
      population = population *2;
 
-     std::cout >> "Time remaining: " << hour << ". Total population: " << population << endl;
-}
+     cout >> "Time remaining: " << hour << ". Total population: " << population << endl;
+} while(population<=1000000000);
+
     return 0;
 }
