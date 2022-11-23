@@ -5,6 +5,16 @@
  Ver. 1.00 
  *****************************************/
 
+ /* Komentarz z wstawionym znakiem // w środek wiersza */
+// A teraz z wstawionym innym /* komentarzem */ tez w środku
+// /* A następnie komentarz już nie w środku */
+/* // I podobny do poprzedniego
+// /* Oraz kolejny, tym razem już
+bardziej rozległy */
+/* Jeszcze jeden,
+// tym razem jeszcze
+bardziej rozległy */
+
 #include <iostream>
 #include <cstdlib>
 #include <time.h>
@@ -20,10 +30,10 @@ int main()
      cout <<  "What is your name?: ";
      cin >> name;
      cout << endl;
-     cout << name << ", Let's play a game! Michael thinking of a number 1-100: ";
+     cout << name << ", You are the BOSS here! Let's play a game! Michael thinking of a number 1-100: ";
      srand(time(NULL));
      number = rand()%100;
-    //cout << number << endl;
+     //cout << number << endl;
 
      while(x!=number)
      {
