@@ -18,7 +18,7 @@ int main()
 {
    int liczba;
 
-   cout << "Podaj dowolną liczbe całkowita: ";
+   cout << "Podaj dowolna liczbe calkowita: ";
    cin >> liczba;
 
    if(liczba<5) cout << "To za malo" << endl;
