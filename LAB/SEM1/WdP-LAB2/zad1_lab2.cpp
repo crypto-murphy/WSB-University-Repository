@@ -1,5 +1,5 @@
 /***************************************** 
- Program name: imieNazwisko.cpp 
+ Program name: zad1_lab2.cpp 
  Author: Michal Mielewczyk, Drammen 2022
  Task 1ABC: Przy użyciu instrukcji for utwórz program, który wypisze na ekranie 
  wartości drugiej i trzeciej potęgi dla liczb z zakresu od 1 .. 15. Sformatuj
@@ -12,7 +12,7 @@
     modyfikację jego algorytmu.
  C. Spróbuj zastąpić instrukcję if poprzez odpowiednie wyrażenie warunkowe, tak aby 
     efekt działania programu był ten sam.
- Created: 2022-11-09
+ Created: 2022-11-20
  Ver. 1.00 
  *****************************************/
 

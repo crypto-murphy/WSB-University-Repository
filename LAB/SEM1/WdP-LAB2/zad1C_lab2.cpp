@@ -1,5 +1,5 @@
 /***************************************** 
- Program name: imieNazwisko.cpp 
+ Program name: zad1C_lab2.cpp 
  Author: Michal Mielewczyk, Drammen 2022
  Task 1D: Przy użyciu instrukcji for utwórz program, który wypisze na ekranie 
  wartości drugiej i trzeciej potęgi dla liczb z zakresu od 1 .. 15. Sformatuj
@@ -7,7 +7,7 @@
  dana liczba i jej druga i trzecia potęga. 
     D. Zmodyfikuj program w ten sposób, aby zliczał ilość sytuacji w których został
     wypisany powyższy tekst i aby na końcu wypisał tę liczbę.  
- Created: 2022-11-09
+ Created: 2022-11-20
  Ver. 1.00 
  *****************************************/
 
