@@ -2,7 +2,7 @@
  Program name: quiz3.pas 
  Author: Michal Mielewczyk, Drammen 2022
  Task 10: Napisz program, ktorym zadasz pytanie i bedziesz wczytywal 
-         odpowiedz dopoki uzytkownik nie poda poprawnej odpowiedzi.
+          odpowiedz dopoki uzytkownik nie poda poprawnej odpowiedzi.
  Created: 2022-12-03
  Ver. 1.00 
  *****************************************)
