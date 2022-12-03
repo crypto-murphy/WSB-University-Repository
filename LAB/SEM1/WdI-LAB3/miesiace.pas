@@ -1,7 +1,7 @@
 (***************************************** 
  Program name: miesiace.pas 
  Author: Michal Mielewczyk, Drammen 2022
- Task 1: Napisz program, ktorey wczytuje numer miesiaca i wypisuje jego nazwe
+ Task 1: Napisz program, ktory wczytuje numer miesiaca i wypisuje jego nazwe
  Created: 2022-12-03
  Ver. 1.00 
  *****************************************)
