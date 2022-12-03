@@ -1,6 +1,7 @@
 (***************************************** 
  Program name: tabliceZnakowe.pas 
  Author: Michal Mielewczyk, Drammen 2022
+ Task 12: 
  Created: 2022-12-03
  Ver. 1.00 
  *****************************************)
