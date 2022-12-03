@@ -10,10 +10,17 @@
 
 program tabliceWczytywanieDoTablicy;
 uses crt;
-var wczytaneLiczby : array[0..1000] of integer;
-
+var wczytaneLiczby : array [0..1000] of integer;
+  n, i : integer;
 begin
-    wczytaneLiczby[2] := 5;
-    wczytaneLiczby[1] := 5;
-    readkey;
+  writeln('Podaj ilosc elementow do wczytania: ');
+  readln(n);
+  for i := 0 to n - 1 do
+  begin
+    Write('Podaj liczbe: ');
+    Readln(wczytaneliczby[i]);
+  end;
+  clrscr;
+  for i := n-1 downto 0 do
+    Writeln('wczytaneLiczby[',i,']=',wczytaneliczby[i]);
 end.
