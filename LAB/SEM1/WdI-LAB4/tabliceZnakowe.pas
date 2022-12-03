@@ -6,13 +6,13 @@
  *****************************************)
 
 program tabliceZnakowe;
-
-var
-    name: string;
-
+uses crt;
+var znaki : array[0..9] of char;
+  i : integer;
+  
 begin
-
-    { you can start coding here }
-    name := 'Pascal';
-    writeln('Hello ', name ,' world!');
+  for i := 0 to 9 do
+    read(znaki[i]);
+  for i:=9 downto 0 do
+    write(znaki[i]);
 end.
