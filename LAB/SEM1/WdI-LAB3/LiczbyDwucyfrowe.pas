@@ -1,6 +1,7 @@
 (***************************************** 
  Program name: LiczbyDwucyfrowe.pas 
  Author: Michal Mielewczyk, Drammen 2022
+ Task 6: 
  Created: 2022-12-03
  Ver. 1.00 
  *****************************************)
