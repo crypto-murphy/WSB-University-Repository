@@ -14,12 +14,13 @@ var odp : string;
 begin
     repeat
     begin
-    write('Ja ma na imie polski pilkarz Lewandowski? ');
-    read(odp);
-    if lowercase(odp)<>'robert' then 
-    writeln('Sprobuj jeszcze raz!');
+        write('Czy dostane punkt za to zadanie? ');
+        read(odp);
+        if lowercase(odp)<>'tak' then 
+        writeln('Oj, niedobrze');
     end;
     until
-    lowercase(odp) = 'robert';
+    lowercase(odp) = 'tak';
+    writeln('Prawidlowa odpowiedz, Dziekuje');
 readkey;
 end.
