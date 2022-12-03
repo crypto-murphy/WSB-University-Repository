@@ -16,7 +16,9 @@ begin
     begin
     writeln('Stolica Polski jest: ');
     readln(odp);
-    end;
+    if lowercase(odp)<>'warszawa' then 
+    writeln('Sprobuj jeszcze raz!')
+    end
     until
     lowercase(odp) = 'warszawa'; //  uppercase <-- WARSZAWA uodparniamy program przed wielkimi literami
 readkey;
