@@ -1,6 +1,8 @@
 (***************************************** 
  Program name: potegowanie.pas 
  Author: Michal Mielewczyk, Drammen 2022
+ Task 5: Napisz program, ktory wczyta podstawe potegi oraz 
+         wykladnik, a nastepnie wyswietli wynik potegowania.
  Created: 2022-12-03
  Ver. 1.00 
  *****************************************)
