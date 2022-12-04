@@ -1,13 +1,13 @@
 (***************************************** 
- Program name: sumaElementowTablicy.pas 
+ Program name: tablice10imion.pas 
  Author: Michal Mielewczyk, Drammen 2022
- Task 5: Napisz program wczytujacy do tablicy 10 liczb calkowitych. 
+ Task 5: Napisz program wczytujacy do tablicy 10 imion. 
          Na koncu programu wypisuje sume wszystkich elementow tablicy.
  Created: 2022-12-04
  Ver. 1.00 
  *****************************************)
 
-program sumaElementowTablicy;
+program tablice10imion;
 uses crt;
 var arr : array [0..9] of string;
     i, number : integer;
