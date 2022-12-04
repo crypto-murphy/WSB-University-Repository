@@ -1,7 +1,7 @@
 (***************************************** 
  Program name: sumaElementowTablicy.pas 
  Author: Michal Mielewczyk, Drammen 2022
- Task 1: Napisz program wczytujacy do tablicy 10 liczb calkowitych. 
+ Task 5: Napisz program wczytujacy do tablicy 10 liczb calkowitych. 
          Na koncu programu wypisuje sume wszystkich elementow tablicy.
  Created: 2022-12-04
  Ver. 1.00 
