@@ -16,7 +16,21 @@ using namespace std;
 
 int main()
 {
-     //Michal, just relax and start coding here... :)
+    
+    char tekst[]="zainicjowana tablica znakowa";
+    char znak;
+    int licznik=0;
+    
+    cout<<"Podaj szukany znak: ";
+    cin>>znak;
+    
+    for (int i=0; tekst[i]!='\0'; i++)
+    {
+        if (znak==tekst[i]);
+            licznik++;
+    }
+    cout<<"Ilosc wystapien: "<<licznik;
+
 
     return 0;
 }
