@@ -26,7 +26,7 @@ int main()
     for(int i=1;i<=15;i++)
     {
         cout << i << "\t" << i*i  << "\t"  << i*i*i;
-        if(i%2==0) cout << "\tPARZYSTE";
+        if(i%2==0) cout << "\tPARZYSTEżźćąśę";
         cout << endl;
     }
 

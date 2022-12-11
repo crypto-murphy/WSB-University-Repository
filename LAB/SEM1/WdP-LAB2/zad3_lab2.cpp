@@ -29,4 +29,5 @@ int main()
     cout << "Suma wyrazow w ciagu konczacym sie na " << podanaLiczba << " wynosi: " << suma << endl;
 
 return 0;
+system("cls");
 }
